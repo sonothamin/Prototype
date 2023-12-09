@@ -33,6 +33,4 @@ function shuffleArray(array) {
 }
 
 // Start the server
-app.listen(port, () => {
-  console.log(`Server running at http://localhost:${port}`);
-});
+app.listen(port, () => {console.log(`Server running at http://localhost:${port}`);});
