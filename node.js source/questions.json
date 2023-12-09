@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Which programming language is this example written in?",
+    "options": ["Java", "Python", "Node.js", "C++"],
+    "correctAnswer": "Node.js"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "O2", "N2"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "What is the largest bone in the human body?",
+    "options": ["Femur", "Tibia", "Radius", "Humerus"],
+    "correctAnswer": "Femur"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Hg"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": ["CO2", "H2O", "O2", "CH4"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "In what year did the Apollo 11 mission successfully land humans on the Moon?",
+    "options": ["1965", "1969", "1972", "1980"],
+    "correctAnswer": "1969"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "options": ["5", "12", "16", "6"],
+    "correctAnswer": "6"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["299,792 kilometers per second", "150,000 kilometers per second", "500,000 kilometers per second", "100,000 kilometers per second"],
+    "correctAnswer": "299,792 kilometers per second"
+  },
+  {
+    "question": "What is the main component of Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+    "correctAnswer": "Nitrogen"
+  },
+  {
+    "question": "What is the molecular formula for glucose?",
+    "options": ["C6H12O6", "H2O", "CO2", "O2"],
+    "correctAnswer": "C6H12O6"
+  },
+  {
+    "question": "What is the function of the human appendix?",
+    "options": ["Digestion", "Immune System", "Reproduction", "No Function"],
+    "correctAnswer": "No Function"
+  }
+]
+

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+ <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Roboto" >
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MCQ Test</title>
+</head>
+<body>
+  <h1>MCQ Test</h1>
+  <form action="/submit" method="post">
+    <% for (const question of questions) { %>
+      <div id=question>
+        <p><%= question.question %></p>
+        <% for (const option of question.options) { %>
+          <label>
+            <input type="radio" name="<%= question.question %>" value="<%= option %>">
+            <%= option %>
+          </label>
+        <% } %>
+      </div>
+    <% } %>
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
+
